@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_custom_range.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_difficulty.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_game.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_instructions.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_leaderboard.xml" value="0.22" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_play_again.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_Recent/GuessX/app/src/main/res/layout/activity_username.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_tasfia_ver/app/src/main/res/layout-land/activity_instructions.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_tasfia_ver/app/src/main/res/layout-land/activity_login.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_tasfia_ver/app/src/main/res/layout/activity_difficulty.xml" value="0.2" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_tasfia_ver/app/src/main/res/layout/activity_game.xml" value="0.2" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_tasfia_ver/app/src/main/res/layout/activity_instructions.xml" value="0.2" />
+        <entry key="..\:/Users/Rehan Nasir/Desktop/GuessX_tasfia_ver/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/drawable/custom_button_main_menu.xml" value="0.4035" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/drawable/custom_button_two.xml" value="0.4035" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout-land/activity_custom_range.xml" value="0.4625" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout-land/activity_difficulty.xml" value="0.4625" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout-land/activity_game.xml" value="0.4625" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout-land/activity_instructions.xml" value="0.4625" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout-land/activity_login.xml" value="0.4625" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout-land/activity_main.xml" value="0.4625" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout-land/activity_play_again.xml" value="0.4625" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout/activity_custom_range.xml" value="0.3885416666666667" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout/activity_difficulty.xml" value="0.3885416666666667" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout/activity_game.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout/activity_instructions.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout/activity_login.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout/activity_main.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/Tasfia/Desktop/GUESSX VERSION ONE/GuessX (v1.0)/GuessX/app/src/main/res/layout/activity_play_again.xml" value="0.3885416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
